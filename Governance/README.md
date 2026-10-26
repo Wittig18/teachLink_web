@@ -26,12 +26,22 @@ documents are added and refined over time (tracked as issues):
 - **Decision-making** — consensus and voting rules, the RFC/proposal process, and
   decision records.
 - **Community & conduct** — code of conduct, enforcement, moderation, and conflict
-  resolution.
+  resolution, including [communication norms](policies/COMMUNICATION_NORMS.md).
 - **Contribution governance** — review policy, triage, labels, and roadmap governance.
 - **Security & disclosure** — vulnerability reporting, embargo, and advisory processes.
 - **Releases & change** — versioning, release cadence, deprecation, and change policy.
 - **Legal & IP** — licensing, contributor sign-off, trademark, and attribution.
 - **Community & on-chain governance** — treasury, grants, and proposal governance.
+
+## Policies
+
+The following policies are maintained in this folder:
+
+- **[Communication Norms](policies/COMMUNICATION_NORMS.md)** — expectations for
+  how contributors communicate in issues, pull requests, and discussions.
+- **[Branch Protection](policies/BRANCH_PROTECTION.md)** — protected branches,
+  required checks and approvals, and override rules for the TeachLink Web
+  repository.
 
 ## Contributing to governance
 

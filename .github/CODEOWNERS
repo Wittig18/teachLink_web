@@ -1,0 +1,10 @@
+# Supply-chain hardening: require review on high-risk paths
+/.github/            @RUKAYAT-CODER
+/.vscode/            @RUKAYAT-CODER
+/.devcontainer/      @RUKAYAT-CODER
+**/*.config.js       @RUKAYAT-CODER
+**/*.config.cjs      @RUKAYAT-CODER
+**/*.config.mjs      @RUKAYAT-CODER
+**/*.config.ts       @RUKAYAT-CODER
+/package.json        @RUKAYAT-CODER
+/pnpm-lock.yaml      @RUKAYAT-CODER
